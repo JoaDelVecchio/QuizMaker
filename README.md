@@ -15,6 +15,9 @@ Run the main script to start the quiz:
 ## Files
 
 main.py: Main script to run the quiz
+
 data.py: Handles data storage and retrieval
+
 question_model.py: Defines the question structure
+
 quiz_brain.py: Manages quiz logic and flow
