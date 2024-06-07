@@ -10,8 +10,9 @@ QuizMaker is a Python-based application designed to create and manage quizzes ef
 
 ## Usage
 Run the main script to start the quiz:
-```bash
-python main.py
+
+
+## Files
 
 main.py: Main script to run the quiz
 data.py: Handles data storage and retrieval
